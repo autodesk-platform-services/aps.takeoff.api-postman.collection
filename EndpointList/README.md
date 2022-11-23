@@ -23,8 +23,8 @@ This folder contains a Postman Collection that includes all the current Autodesk
 
 ### Setup Postman environment and Authorization:
 - Please setup the following environment vialables in **Pre-request Script** of the endpoint `Step 0: Reset the environment variables`, then run this endpoint: 
-    - client_id:     Forge App Id.
-    - client_secret: Forge App Secret.
+    - client_id:     APS App Id.
+    - client_secret: APS App Secret.
     - hub_name: The name of ACC hub/account that you want to operate on.
     - project_name:  The project name that you want to operate on.
 
